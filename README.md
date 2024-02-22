@@ -29,7 +29,7 @@ This data set records the total amounts of fossil fuels subsidies offered by dif
 
 - Display some of the raw data from the original data file (the first 20 rows is enough). Use Markdown's ability to display tables - see the examples in the Markdown guide linked above.
 - Generally, the data set that I found was pretty neat - it's already in cvs format, and there are not additional keys. However, there are many columns that have information redundant - they all describe the indicators, so I choose to remove them when cleaning the raw data via Python.
-- Links to your data files:
+- Links to my data files:
     - [original data](data/Fossil_Fuel_Subsidies.cvs)
     - [munged data](data/clean_data.cvs)
     - [spreadsheet file](data/spreadsheet_analysis.xlsx)
