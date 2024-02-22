@@ -72,7 +72,6 @@ This is the graph for total explicit cost from 2015 to 2030. There is a very ste
 
 
 ```
-Extra-credit
-
-This assignment deserves extra credit because there are thousands of rows are included in the raw data.
+Extra-credit:
+This assignment deserves extra credit because thousands of rows are included in the raw data.
 ```
